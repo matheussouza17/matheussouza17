@@ -1,21 +1,21 @@
-# Olá! 👋
+# Hello! 👋
 
-Sou Matheus Henrique Souza, desenvolvedor de software especializado em OutSystems e Node.js. Apaixonado por criar soluções inovadoras e colaborar em projetos de tecnologia.
+I'm Matheus Henrique Souza, a software developer specializing in OutSystems and Node.js. I'm passionate about creating innovative solutions and collaborating on technology projects.
 
-## 🚀 Minhas Habilidades
+## 🚀 My Skills
 
-- **Linguagens:** JavaScript, Node.js, React, OutSystems
-- **Ferramentas:** Git, Docker, Postman
-- **Interesses:** Desenvolvimento de APIs, Integração de Sistemas, Processos BPM
+- **Languages:** JavaScript, Node.js, React, OutSystems
+- **Tools:** Git, Docker, Postman
+- **Interests:** API Development, System Integration, BPM Processes
 
-## 🌟 Projetos em Destaque
+## 🌟 Featured Projects
 
-- [Projeto Inner Friend - BackEnd](https://github.com/TechMind-Innovations/InnerFriend): Uma aplicação inovadora para interação com IA.
-- [Projeto Inner Friend - FrontEnd](https://github.com/TechMind-Innovations/InnerFriend_FE): Uma aplicação inovadora para interação com IA.
-- [Invoice Workflow](https://github.com/matheussouza17/Workflows_BE): Integração de sistemas para gerenciamento de faturas.
-- [Pizzaria - BackEnd](https://github.com/matheussouza17/Pizzaria-BackEnd): Sistema integrado de uma pizzaria.
+- [Inner Friend Project - BackEnd](https://github.com/TechMind-Innovations/InnerFriend): An innovative application for AI interaction.
+- [Inner Friend Project - FrontEnd](https://github.com/TechMind-Innovations/InnerFriend_FE): An innovative application for AI interaction.
+- [Invoice Workflow](https://github.com/matheussouza17/Workflows_BE): System integration for invoice management.
+- [Pizzaria - BackEnd](https://github.com/matheussouza17/Pizzaria-BackEnd): Integrated system for a pizzeria.
 
-## 🌐 Conecte-se Comigo
+## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/matheus-henrique-souza-a453a5231)
 - [Twitter](https://x.com/Matheus_17H)
@@ -24,4 +24,4 @@ Sou Matheus Henrique Souza, desenvolvedor de software especializado em OutSystem
 
 ---
 
-"Sempre buscando aprender algo novo e compartilhar conhecimento." 😊
+"Always seeking to learn something new and share knowledge." 😊
