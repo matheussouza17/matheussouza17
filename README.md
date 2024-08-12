@@ -10,13 +10,17 @@ Sou Matheus Henrique Souza, desenvolvedor de software especializado em OutSystem
 
 ## 🌟 Projetos em Destaque
 
-- [Projeto Inner Friend](link_do_projeto): Uma aplicação inovadora para interação com IA.
-- [Invoice Workflow](link_do_projeto): Integração de sistemas para gerenciamento de faturas.
+- [Projeto Inner Friend - BackEnd](https://github.com/TechMind-Innovations/InnerFriend): Uma aplicação inovadora para interação com IA.
+- [Projeto Inner Friend - FrontEnd](https://github.com/TechMind-Innovations/InnerFriend_FE): Uma aplicação inovadora para interação com IA.
+- [Invoice Workflow](https://github.com/matheussouza17/Workflows_BE): Integração de sistemas para gerenciamento de faturas.
+- [Pizzaria - BackEnd](https://github.com/matheussouza17/Pizzaria-BackEnd): Sistema integrado de uma pizzaria.
 
 ## 🌐 Conecte-se Comigo
 
-- [LinkedIn](link_do_linkedin)
-- [Twitter](link_do_twitter)
+- [LinkedIn](https://www.linkedin.com/in/matheus-henrique-souza-a453a5231)
+- [Twitter](https://x.com/Matheus_17H)
+- [Instagram](https://www.instagram.com/matheus_21_07)
+- [Outsystems](https://www.outsystems.com/profile/auvjvktewk)
 
 ---
 
