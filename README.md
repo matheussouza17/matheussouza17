@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**matheussouza17/matheussouza17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Matheus Henrique Souza, desenvolvedor de software especializado em OutSystems e Node.js. Apaixonado por criar soluções inovadoras e colaborar em projetos de tecnologia.
 
-Here are some ideas to get you started:
+## 🚀 Minhas Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens:** JavaScript, Node.js, React, OutSystems
+- **Ferramentas:** Git, Docker, Postman
+- **Interesses:** Desenvolvimento de APIs, Integração de Sistemas, Processos BPM
+
+## 🌟 Projetos em Destaque
+
+- [Projeto Inner Friend](link_do_projeto): Uma aplicação inovadora para interação com IA.
+- [Invoice Workflow](link_do_projeto): Integração de sistemas para gerenciamento de faturas.
+
+## 🌐 Conecte-se Comigo
+
+- [LinkedIn](link_do_linkedin)
+- [Twitter](link_do_twitter)
+
+---
+
+"Sempre buscando aprender algo novo e compartilhar conhecimento." 😊
