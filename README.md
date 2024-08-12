@@ -10,8 +10,7 @@ I'm Matheus Henrique Souza, a software developer specializing in OutSystems and 
 
 ## 🌟 Featured Projects
 
-- [Inner Friend Project - BackEnd](https://github.com/TechMind-Innovations/InnerFriend): An innovative application for AI interaction.
-- [Inner Friend Project - FrontEnd](https://github.com/TechMind-Innovations/InnerFriend_FE): An innovative application for AI interaction.
+- Inner Friend Project - [BackEnd](https://github.com/TechMind-Innovations/InnerFriend)  [FrontEnd](https://github.com/TechMind-Innovations/InnerFriend_FE): An innovative application for AI interaction.
 - [Invoice Workflow](https://github.com/matheussouza17/Workflows_BE): System integration for invoice management.
 - [Pizzaria - BackEnd](https://github.com/matheussouza17/Pizzaria-BackEnd): Integrated system for a pizzeria.
 
