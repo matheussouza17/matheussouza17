@@ -6,17 +6,23 @@ Atuo principalmente com sustentação, evolução arquitetural e integrações c
 
 Tenho experiência com manutenção de sistemas críticos, refatoração de aplicações, integrações BPM, automações e desenvolvimento de soluções escaláveis para ambientes corporativos.
 
-Além do trabalho como desenvolvedor, sou fundador da **Servus Company**, onde desenvolvo o **EsCristo** nas horas vagas — um projeto paralelo que cresce aos poucos ao lado da minha atuação principal.
+Além do trabalho como desenvolvedor, sou fundador da **Servus Company**, onde desenvolvo o **ÉsCristo** nas horas vagas — um projeto paralelo que cresce aos poucos ao lado da minha atuação principal.
 
 ---
 
 ## 🏢 Servus Company
 
-A Servus Company é minha empresa, criada para desenvolver o **EsCristo**, um sistema de gestão para igrejas católicas.
+A Servus Company nasceu de uma necessidade real vivida na minha própria paróquia: dificuldade para organizar escalas e ministérios, agenda de sacramentos manual e falta de alinhamento entre o padre e a equipe. Criei o **ÉsCristo** para resolver isso, o padre gostou tanto que pediu para expandir para outras paróquias — e assim nasceu o projeto.
 
-- 🌐 [servuscompany.com](https://servuscompany.com)
-- ⛪ **EsCristo** — sistema de gestão voltado para paróquias e comunidades católicas
-- Não é minha ocupação principal hoje, mas é um projeto que levo a sério e pretendo expandir
+**ÉsCristo** — Sistema de Organização Pastoral, com módulos para:
+- Pastorais, Ministérios, Movimentos e Comunidades
+- Agenda de Sacramentos
+- Escala do Altar
+- Secretaria (casamentos, missas especiais, controle financeiro e de agenda)
+
+🌐 [servuscompany.com](https://servuscompany.com) · 📸 [@servuscompany](https://www.instagram.com/servuscompany)
+
+Não é minha ocupação principal hoje, mas é um projeto que levo a sério e pretendo expandir.
 
 ---
 
@@ -112,7 +118,7 @@ Atualmente trabalho com manutenção e evolução de aplicações corporativas, 
 
 ## 🌐 Vamos nos conectar?
 
-[![Servus Company](https://img.shields.io/badge/Servus_Company-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://servuscompany.com)
+[![Servus Company](https://img.shields.io/badge/Servus_Company-1B2A4A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://servuscompany.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-souza-a453a5231)
 
