@@ -1,114 +1,54 @@
-# Olá! Eu sou o Matheus Souza 👋
+# Olá, eu sou o Matheus 👋
 
-Desenvolvedor de Software e Fundador/CEO da **Servus Company**, focado em aplicações Full Stack, Mobile e soluções Enterprise com OutSystems.
+Sou desenvolvedor de software e fundador da **Servus Company**. Comecei a carreira trabalhando com sustentação e evolução de sistemas corporativos em OutSystems, e hoje divido meu tempo entre esse trabalho e construir minha própria empresa.
 
-Atuo principalmente com sustentação, evolução arquitetural e integrações corporativas, além do desenvolvimento de aplicações modernas utilizando Node.js, React, React Native e TypeScript.
-
-Tenho experiência com manutenção de sistemas críticos, refatoração de aplicações, integrações BPM, automações e desenvolvimento de soluções escaláveis para ambientes corporativos.
+Hoje meu foco principal é o **EsCristo**, um sistema de gestão para igrejas católicas que estou desenvolvendo pela Servus Company — pensado pra resolver problemas reais de organização, comunicação e administração que paróquias enfrentam no dia a dia.
 
 ---
 
 ## 🏢 Servus Company
 
-Fundador da **Servus Company**, empresa de desenvolvimento de software.
+A Servus Company é a empresa que fundei para desenvolver e comercializar soluções de software.
 
-- 🌐 Site: [servuscompany.com](https://servuscompany.com)
-- ⛪ Produto: **EsCristo** — sistema de gestão voltado para igrejas católicas
-- 💼 Aberto a parcerias, contratações e projetos sob demanda
-
----
-
-## 💼 O que eu faço hoje
-
-Atualmente trabalho com manutenção e evolução de aplicações corporativas, atuando principalmente em:
-
-- Sustentação de sistemas enterprise
-- Refatoração e padronização arquitetural
-- Integrações BPM e APIs
-- Rebranding e componentização de aplicações
-- Desenvolvimento Full Stack e Mobile
-- Modelagem e otimização de banco de dados
-- Automação de processos e fluxos internos
+- 🌐 [servuscompany.com](https://servuscompany.com)
+- ⛪ **EsCristo** — sistema de gestão para igrejas católicas
+- Estou aberto a conversas sobre parcerias, novos clientes e oportunidades de negócio
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 O que eu faço
 
-### Enterprise & Low-Code
-- OutSystems
-- BPM / Workflow Engines
-- Integrações de Sistemas
-- Rebranding de aplicações
-- Arquitetura de aplicações corporativas
+No dia a dia, atuo com:
 
-### Backend
-- Node.js
-- TypeScript
-- .NET Core
-- APIs REST
-- Web Scraping
-- Microsserviços
-
-### Frontend & Mobile
-- React.js
-- React Native / Expo
-- JavaScript ES6+
-- Geolocalização e Mapas
-- Interfaces responsivas
-
-### Banco de Dados & Ferramentas
-- SQL Server
-- PostgreSQL
-- Docker
-- Git & GitHub
-- Postman / Insomnia
-- DBML / Modelagem de Dados
+- Manutenção e evolução de aplicações enterprise (OutSystems)
+- Integrações entre sistemas e APIs
+- Desenvolvimento Full Stack com Node.js, React e React Native
+- Modelagem de banco de dados e arquitetura de soluções corporativas
+- Construção do EsCristo, do zero, junto com a operação da Servus Company
 
 ---
 
-## 🚀 Tech Stack Badges
+## 🛠️ Stack
+
+**Enterprise / Low-Code**
+OutSystems · BPM/Workflow · Integrações de sistemas
+
+**Backend**
+Node.js · TypeScript · .NET Core · APIs REST
+
+**Frontend & Mobile**
+React · React Native / Expo · JavaScript
+
+**Dados & Ferramentas**
+SQL Server · PostgreSQL · Docker · Git
 
 ![OutSystems](https://img.shields.io/badge/OutSystems-FF5200?style=for-the-badge&logo=outsystems&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
----
-
-## 🌟 Projetos em Destaque
-
-| Projeto | Stack | Descrição |
-|---|---|---|
-| **Inner Friend** | Node.js • React • IA | Plataforma voltada para integração de fluxos lógicos e interação inteligente utilizando Inteligência Artificial. |
-| **Invoice Workflow** | OutSystems • BPM • SQL | Sistema corporativo para gerenciamento de faturamento, workflows empresariais e integrações de processos. |
-| **Pizzaria Backend** | Node.js • PostgreSQL | API REST para gerenciamento de pedidos, autenticação e automação operacional. |
-
-### 🔗 Repositórios
-
-- 📌 **Inner Friend**  
-  Frontend: https://github.com/TechMind-Innovations/InnerFriend_FE  
-  Backend: https://github.com/TechMind-Innovations/InnerFriend
-
-- 📌 **Invoice Workflow**  
-  https://github.com/matheussouza17/Workflows_BE
-
-- 📌 **Pizzaria Backend**  
-  https://github.com/matheussouza17/Pizzaria-BackEnd
-
----
-
-## 📚 Atualmente estudando
-
-- Arquitetura Orientada a Eventos
-- Microsserviços
-- Mensageria e Filas
-- Clean Architecture
-- Performance em aplicações Node.js
-- Escalabilidade de sistemas distribuídos
 
 ---
 
@@ -130,22 +70,8 @@ Atualmente trabalho com manutenção e evolução de aplicações corporativas, 
 
 ---
 
-## 🌐 Vamos nos conectar?
+## 🌐 Contato
 
 [![Servus Company](https://img.shields.io/badge/Servus_Company-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://servuscompany.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-souza-a453a5231)
-
 [![OutSystems](https://img.shields.io/badge/OutSystems-FF5200?style=for-the-badge&logo=outsystems&logoColor=white)](https://www.outsystems.com/profile/auvjvktewk)
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Matheus_17H)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_21_07)
-
----
-
-<div align="center">
-
-💡 *Sempre aprendendo, construindo e evoluindo como desenvolvedor.*
-
-</div>
