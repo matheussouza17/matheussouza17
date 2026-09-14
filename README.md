@@ -1,10 +1,20 @@
 # Olá! Eu sou o Matheus Souza 👋
 
-Desenvolvedor de Software focado em aplicações Full Stack, Mobile e soluções Enterprise com OutSystems.
+Desenvolvedor de Software e Fundador/CEO da **Servus Company**, focado em aplicações Full Stack, Mobile e soluções Enterprise com OutSystems.
 
 Atuo principalmente com sustentação, evolução arquitetural e integrações corporativas, além do desenvolvimento de aplicações modernas utilizando Node.js, React, React Native e TypeScript.
 
 Tenho experiência com manutenção de sistemas críticos, refatoração de aplicações, integrações BPM, automações e desenvolvimento de soluções escaláveis para ambientes corporativos.
+
+---
+
+## 🏢 Servus Company
+
+Fundador da **Servus Company**, empresa de desenvolvimento de software.
+
+- 🌐 Site: [servuscompany.com](https://servuscompany.com)
+- ⛪ Produto: **EsCristo** — sistema de gestão voltado para igrejas católicas
+- 💼 Aberto a parcerias, contratações e projetos sob demanda
 
 ---
 
@@ -121,6 +131,8 @@ Atualmente trabalho com manutenção e evolução de aplicações corporativas, 
 ---
 
 ## 🌐 Vamos nos conectar?
+
+[![Servus Company](https://img.shields.io/badge/Servus_Company-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://servuscompany.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-souza-a453a5231)
 
